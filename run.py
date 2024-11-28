@@ -1,24 +1,28 @@
-import numpy
-import scipy
-import xarray
-import numpy
-import scipy
-import xarray
-import vtk
-import PySide6
-import pyqtgraph
-import requests
-import netCDF4
-import fpdf  # from fpdf2
-import pdfrw
-import rapidfuzz
-import wavespectra
-import waveresponse
-import mafredo
-import nooverlap
-import PySide6QtAds
-import PIL
+from numpy import *
+from scipy import *
+from xarray import *
+from numpy import *
+from scipy import *
+from xarray import *
+from vtk import *
+from PySide6 import *
+from pyqtgraph import *
+from requests import *
+from netCDF4 import *
+from fpdf import *             # this is fpdf2
+from pdfrw import *
+from rapidfuzz import *
+from wavespectra import *
+from waveresponse import *
+from mafredo import *
+from nooverlap import *
+from PySide6QtAds import *
+from PIL import *
 from yaml import load, safe_dump, SafeLoader
 
+all = dict(**locals())
+
+for key, value in all.items():
+    print(key, value)
 
 print('all imported!')
