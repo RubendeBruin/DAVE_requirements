@@ -1,19 +1,19 @@
-# numpy<2.0
-# scipy
-# xarray
-# vtk
-# PySide6-essentials
+numpy<2.0
+scipy
+xarray
+vtk
+PySide6-essentials
 # pyqtgraph
-# requests
+requests
 # netCDF4
 # fpdf2
 # pdfrw
-# Pillow
-# PyYAML  #yaml
-# matplotlib
-# rapidfuzz
-# PySide6-QtAds
+Pillow
+PyYAML  #yaml
+matplotlib
+rapidfuzz
+PySide6-QtAds
 # wavespectra
 # waveresponse
 # mafredo
-# nooverlap
+nooverlap
