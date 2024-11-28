@@ -8,10 +8,12 @@ requests
 netCDF4
 fpdf2
 pdfrw
+Pillow
+PyYAML  #yaml
+matplotlib
 rapidfuzz
 PySide6-QtAds
 wavespectra
 waveresponse
-cadvas
 mafredo
 nooverlap
