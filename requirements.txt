@@ -2,4 +2,16 @@ numpy<2.0
 scipy
 xarray
 vtk
-pyside6
+PySide6-essentials
+pyqtgraph
+requests
+netCDF4
+fpdf2
+pdfrw
+rapidfuzz
+PySide6-QtAds
+wavespectra
+waveresponse
+cadvas
+mafredo
+nooverlap
