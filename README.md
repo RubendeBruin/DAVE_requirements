@@ -10,3 +10,7 @@ The requirements are stored in the `requirements.txt` file and can be installed 
 pip install -r requirements.txt
 ```
 
+## automated checks
+
+- Dependabot
+- Snyk
