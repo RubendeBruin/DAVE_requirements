@@ -1,19 +1,20 @@
-# numpy<2.0
-# scipy
-# xarray
-# vtk
-# PySide6-essentials
-# pyqtgraph
-# requests
-# netCDF4
-# fpdf2
-# pdfrw
-# Pillow
-# PyYAML  #yaml
-# matplotlib
-# rapidfuzz
-# PySide6-QtAds
-# wavespectra
-# waveresponse
-# mafredo
-# nooverlap
+numpy<2.0
+scipy
+xarray
+vtk
+PySide6-essentials
+pyqtgraph
+requests
+netCDF4
+fpdf2
+pdfrw
+Pillow
+PyYAML  #yaml
+matplotlib
+rapidfuzz
+PySide6-QtAds
+wavespectra
+waveresponse
+mafredo
+nooverlap
+pip-licenses  # pip-licenses, only needed to generate attribution, not part of dave (--> wcwidth, tomli, prettytable, pip-licenses)
