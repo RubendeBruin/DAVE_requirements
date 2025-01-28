@@ -17,3 +17,4 @@ wavespectra
 waveresponse
 mafredo
 nooverlap
+pip-licenses  # pip-licenses, only needed to generate attribution, not part of dave (--> wcwidth, tomli, prettytable, pip-licenses)
